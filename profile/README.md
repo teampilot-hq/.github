@@ -1,8 +1,8 @@
-# Teamwize.app 🗓️
+# Teampilot.app 🗓️
 
 ## Open Source Leave Management System
 
-![GitHub stars](https://img.shields.io/github/stars/teamwize/panel-app)
+![GitHub stars](https://img.shields.io/github/stars/teampilot-hq/panel-app)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 
 ## 🌟 Features
@@ -24,7 +24,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/teamwize/backend
+git clone https://github.com/teampilot-hq/backend
 
 # Run the Docker containers
 docker compose pull && docker compose up -d
@@ -40,8 +40,8 @@ docker compose pull && docker compose up -d
 Licensed under the [MIT License](LICENSE).
 
 ## 📞 Contact
-- **Website**: [teamwize.app](https://teamwize.app)
-- **Email**: support@teamwize.app
+- **Website**: [teampilot.app](https://teampilot.app)
+- **Email**: support@teampilot.app
 
 Made with ❤️ by the Open Source Community.
 
