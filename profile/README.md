@@ -1,6 +1,6 @@
 # Teampilot.app 🗓️
 
-## Open Source Leave Management System
+## Open Source Leave Tracker Application 
 
 ![GitHub stars](https://img.shields.io/github/stars/teampilot-hq/panel-app)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
@@ -15,7 +15,7 @@
 - **Calendar Integration**: Access comprehensive leave calendars for simplified planning and tracking.
 
 ## 🛠 Tech Stack
-- **Frontend**: React/TypeScript/ShadCN
+- **Frontend**: React / TypeScript / Tailwind CSS
 - **Backend**: Java 21 / Spring Boot
 - **Database**: PostgreSQL
 - **Authentication**: JWT
