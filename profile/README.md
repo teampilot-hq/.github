@@ -1,6 +1,5 @@
-# Teampilot.app 🗓️
+# 🗓️ Teampilot.app -  Open Source Leave Tracker Application 
 
-## Open Source Leave Tracker Application 
 
 ![GitHub stars](https://img.shields.io/github/stars/teampilot-hq/panel-app)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
